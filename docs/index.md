@@ -1,3 +1,3 @@
 ## AccessXpert Documentation
 
-* [North Garage Gate](https://github.com/gastelumdev/axdocs/blob/main/northGarageGate.md)
+* [North Garage Gate](https://github.com/gastelumdev/axdocs/blob/main/docs/northGarageGate.md)
